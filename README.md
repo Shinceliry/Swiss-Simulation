@@ -11,7 +11,7 @@
 bash swiss.sh
 
 # 出力例
-(players=334, rounds=7, qualify=8, simulations=3000)
+players=334, rounds=7, qualify=8, simulations=3000
 1回戦で負けかつ最終1敗の選手の予選通過率は0.19%
 2回戦で負けかつ最終1敗の選手の予選通過率は3.33%
 3回戦で負けかつ最終1敗の選手の予選通過率は11.54%
